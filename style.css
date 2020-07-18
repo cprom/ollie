@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  font-family: 'Permanent Marker', cursive;
+}
+
+h1 {
+  color: black;
+  margin: 0;
+  font-size: 4em;
+}
+
+.container {
+  text-align: center;
+}
+
+canvas {
+  
+  background-color: lightblue;
+  margin: auto;
+  border: 1px solid black;
+}
+
+/* #wrapper {
+  display: block;
+}
+
+@media only screen and (max-device-width: 375px) and (orientation:portrait) {
+  #wrapper {
+    height: 100vw;
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+  }
+}
+
+@media only screen and (orientation:landscape) {
+  #wrapper {
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  h1 {
+    display: none;
+  }
+  canvas {
+    margin: auto;
+    height: 100vh;
+    width: 100vw;
+    
+  }
+} */
